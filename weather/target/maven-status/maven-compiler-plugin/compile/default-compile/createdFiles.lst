@@ -1,0 +1,7 @@
+com\pactera\weather\domain\Date.class
+com\pactera\weather\domain\Hours.class
+com\pactera\weather\domain\City.class
+com\pactera\weather\WeatherApplication.class
+com\pactera\weather\controller\Weather.class
+com\pactera\weather\service\WeatherService.class
+com\pactera\weather\domain\Weather.class
